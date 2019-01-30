@@ -47,3 +47,5 @@ then, the following process shall be followed:
 1. Both RelMgrs shall document in writing their position and reasoning
 2. If after the RelMgrs have met and discussed at least three (3) times but have not mutually agreed, the dispute shall be escalated to an executive from both parties
 3. If after the executives have met and discussed at least twice (2 times), the Partnership SLA shall be suspended until such a time as both parties reach a mutual agreement or until the end of this contract
+
+No Service Credits shall be due from this SLA during periods where the SLA is suspended.
