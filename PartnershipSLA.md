@@ -1,5 +1,5 @@
 # Partnership Service Level Agreement (SLA)
-This Partnership SLA creates incentives and disincentives to help align priorities between service provider ______________, henceforth **Provider**, and customer ________________, henceforth **Customer**. It provides a mechanism to regulary discuss, document, and agree on **Relationship Goals** and whether those were met without the need for contractual changes.  It also helps to discourage negative behaviors caused by misaligned priorities and incentives.
+This Partnership SLA creates incentives and disincentives to help align priorities between service provider ______________, henceforth **Provider**, and customer ________________, henceforth **Customer**. It provides a mechanism to regulary discuss, document, and agree on **Relationship Goals** and whether those were met without the need for contract changes.  It also helps to discourage negative behaviors caused by misaligned priorities and incentives.
 
 ## Relationship Manager
 Each party shall designate a **Relationship Manager** (RelMgr) and notify the other party in writing if the RelMgr is redesignated to another person. Both RelMgrs will meet quarterly to set **Relationship Goals** for the quarter and to review **Attainment** of the prior quarter's goals.
@@ -34,6 +34,7 @@ Annually, Provider shall issue a **Service Credit** (Credit) in the amount of th
 - Q2: 3 Goals met
 - Q3: 1 Goal met
 - Q4: 0 Goals met
+
 Then the Credit would be calculated as follows: annual RAR divided by 4 multiplied by 150%.
 
 ## Dispute Resolution
