@@ -41,6 +41,7 @@ In the event RelMgrs cannot mutually agree on one or more of the following:
 - setting the Goals for the coming quarter 
 - whether the Goals from the prior quarter were successfully met
 - whether or not an earned Bonus has been provided
+
 then, the following process shall be followed:
 1. Both RelMgrs shall document in writing their position and reasoning
 2. If after the RelMgrs have met and discussed at least three (3) times but have not mutually agreed, the dispute shall be escalated to an executive from both parties
